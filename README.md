@@ -4,3 +4,5 @@
 * assembler.py是用python写的汇编器
 * MINESWEEPER.asm是扫雷的汇编代码
 * MINESWEEPER.hex是扫雷的十六进制机器码
+
+这个其实做的也不是很好啦~不过我也不改了，因为我现在在玩2.0测试版（）
